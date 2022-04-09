@@ -1,0 +1,2 @@
+# minecraft_mod_script
+マイクラ快適ちゃんを目指すリポジトリ
